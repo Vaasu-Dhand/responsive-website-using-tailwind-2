@@ -1,8 +1,8 @@
 {
-  "name": "tailwindcss-boilerplate",
+  "name": "Website_2",
   "version": "1.0.0",
-  "description": "BoilerPlate code for a Tailwind CSS Project.",
-  "main": "index.js",
+  "description": "",
+  "main": "index.html",
   "scripts": {
     "build-css": "tailwindcss build src/style.css -o public/style.css"
   },
